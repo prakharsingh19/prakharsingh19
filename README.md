@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prakharsingh19
-- 👀 I’m interested in technology
+- 👀 I’m interested in science and technology
 - 🌱 I’m currently learning data science and programming
-- 💞️ I’m looking to collaborate on who love to machine 
 
 
 <!---
